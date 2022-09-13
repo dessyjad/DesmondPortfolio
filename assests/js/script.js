@@ -41,8 +41,8 @@ $(document).ready(function(){
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Portfolio | Saurav Mukherjee";
-        $("#favicon").attr("href","assests/images/favicon.png");
+        document.title = "Portfolio | Desmond Awonjaab";
+        $("#favicon").attr("href","assests/images/rickdes");
     }
     else {
         document.title = "Come Back To Portfolio";
