@@ -45,7 +45,7 @@ function(){
         $("#favicon").attr("href","assests/images/rickdes");
     }
     else {
-        document.title = "Come Back To Portfolio";
+        document.title = "dessy Portfolio";
         
     }
 });
