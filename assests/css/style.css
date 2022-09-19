@@ -926,7 +926,7 @@ header .navbar ul li a:hover{
 
 /* contact section starts */
 .contact{
-  background:black;
+  background: #e5ecfb;
   min-height: 60vh;
 }
 .contact .container{
